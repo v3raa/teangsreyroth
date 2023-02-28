@@ -1,3 +1,5 @@
+![](https://github.com/teangsreyroth/teangsreyroth/blob/main/name.svg)
+
 ### Hi there 👋
 
 <!--
